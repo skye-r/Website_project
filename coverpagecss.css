@@ -4,9 +4,10 @@ body {
     background-size: cover;
   }
 
-/* h1 {
-    text-align: center;
-  } */
+.quote {
+  color: #ffffff;
+  padding: 10px 20px 10px 20px
+}
 
 
 .main-content {
@@ -38,6 +39,7 @@ body {
   }
 
   .button:hover {
-    background: #3cb0fd;
+    background: #f4c842;
+    color: #ffbdff;
     text-decoration: none;
   }
