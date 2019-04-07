@@ -40,6 +40,11 @@ main {
   font-family: "Georgia", serif;
 }
 
+#twitter-wrapper {
+  display:flex;
+  justify-content: center;
+}
+
 h1 {
   font-family: "Georgia", serif;
 }
