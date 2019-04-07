@@ -6,17 +6,31 @@
 }}
 header {
   margin-top: 9vh;
+  margin-left: 3vh;
+  margin-right: 3vh;
   height: 100vh;
 }
 #problem {
   padding-top: 9vh;
+  margin-left: 3vh;
+  margin-right: 3vh;
   height: 100vh;
+  font-family: "Georgia", serif;
 }
 
 #solution {
   padding-top: 9vh;
+  margin-left: 3vh;
+  margin-right: 3vh;
   height: 100vh;
+  font-family: "Georgia", serif;
 }
+
+
+h1 {
+  font-family: "Georgia", serif;
+}
+
 
 .carousel-inner {
   height: 90vh;
@@ -25,7 +39,6 @@ header {
 .img {
   max-width: 120vw;
 }
-
 
 .fill {
     width: 100%;
@@ -78,3 +91,8 @@ header {
     background: #9eb81f;
     padding: 10px 20px 10px 20px;
   } */
+
+/* solution {
+  padding-top: 9vh;
+  height: 100vh;
+} */
