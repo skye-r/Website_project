@@ -8,10 +8,16 @@ header {
   margin-top: 9vh;
   height: 100vh;
 }
-main {
+#problem {
   padding-top: 9vh;
   height: 100vh;
 }
+
+#solution {
+  padding-top: 9vh;
+  height: 100vh;
+}
+
 .carousel-inner {
   height: 90vh;
 }
