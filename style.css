@@ -32,14 +32,13 @@ h1 {
   font-family: "Georgia", serif;
 }
 
-.twitter-wrapper {
-  height:100vh;
-}
-
-main {
-  margin: auto;
-  width: 50%;
-  padding: 10px;
+.fa {
+  /* padding: 20px; */
+  /* font-size: 100px; */
+  width: 700px;
+  text-align: right;
+  text-decoration: none;
+  border-radius: 50%;
 }
 
 .carousel-inner {
