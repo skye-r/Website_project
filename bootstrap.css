@@ -60,7 +60,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #eccfd9;
 }
 
 [tabindex="-1"]:focus {
@@ -4222,7 +4222,7 @@ input[type="button"].btn-block {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: transparent;
+  background-color: #eccfd9;
   border: 1px solid transparent;
   border-radius: 0.25rem;
 }
@@ -4498,7 +4498,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: #efcdd9;
 }
 
 .navbar-dark .navbar-brand {
