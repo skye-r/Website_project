@@ -46,3 +46,11 @@ main {
     height: auto;
     width: auto;
 }
+
+.button-center-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width:100%
+}
