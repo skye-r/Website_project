@@ -53,4 +53,18 @@ main {
   justify-content: center;
   align-items: center;
   width:100%
+  padding:10px 20px 10px 20px;
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
 }
+/* .button {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Courier New;
+    color: #ffbdff;
+    font-size: 20px;
+    background: #9eb81f;
+    padding: 10px 20px 10px 20px;
+  } */
