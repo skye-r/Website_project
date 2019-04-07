@@ -15,7 +15,13 @@ main {
   margin-left: 3vh;
   margin-right: 3vh;
   height: 100vh;
+  font-family: "Georgia", serif;
 }
+h1 {
+  font-family: "Georgia", serif;
+}
+
+
 .carousel-inner {
   height: 90vh;
 }
@@ -23,7 +29,6 @@ main {
 .img {
   max-width: 120vw;
 }
-
 
 .fill {
     width: 100%;
