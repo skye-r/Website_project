@@ -47,6 +47,10 @@ main {
     width: auto;
 }
 
+.btn {
+  padding: 20px 20px 20px 20px;
+}
+
 .button-center-wrapper {
   display: flex;
   flex-direction: column;
