@@ -40,6 +40,6 @@ body {
 
   .button:hover {
     background: #f4c842;
-    color: #ffbdff;
+    color: black;
     text-decoration: none;
   }
