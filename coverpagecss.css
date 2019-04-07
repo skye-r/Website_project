@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    font-family: "Georgia", serif;
     background: url(Images/thought-catalog-620865-unsplash.jpg) no-repeat center center fixed;
     background-size: cover;
   }
@@ -31,7 +32,7 @@ body {
     -webkit-border-radius: 60;
     -moz-border-radius: 60;
     border-radius: 60px;
-    font-family: Courier New;
+    font-family: "Georgia", serif;
     color: #ffbdff;
     font-size: 20px;
     background: #9eb81f;
