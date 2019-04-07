@@ -27,10 +27,20 @@ header {
 }
 
 
+
 h1 {
   font-family: "Georgia", serif;
 }
 
+.twitter-wrapper {
+  height:100vh;
+}
+
+main {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 
 .carousel-inner {
   height: 90vh;
