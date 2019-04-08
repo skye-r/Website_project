@@ -6,6 +6,10 @@ header {
   height: 100vh;
 }
 
+h1 {
+  font-family: "Georgia", serif;
+}
+
 body {
   background-color: #eccfd9;
 }
@@ -45,9 +49,7 @@ main {
   justify-content: center;
 }
 
-h1 {
-  font-family: "Georgia", serif;
-}
+
 
 .fa {
   /* padding: 20px; */
